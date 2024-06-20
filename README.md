@@ -9,7 +9,7 @@
 - 👨‍💻 **All of my projects are available at :
   [https://github.com/Navdeepbhatt08/](https://github.com/Navdeepbhatt08/)**
 - 💬 Ask me about
-  **React , Express , SQL**
+  **Html, Css, JavaScript, ReactJs, SQL**
 - 📫 How to reach me
   **navdeep9557@gmail.com**
 
