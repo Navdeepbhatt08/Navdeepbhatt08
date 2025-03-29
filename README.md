@@ -1,7 +1,7 @@
 # 💫 About Me :
 
 - 🔭 I’m currently working on:
-  **Front End Web Development**
+  ##**Front End Web Development**
 - 🌱 I’m currently learning:
   **Html , CSS , Java Script , React Js**
 - 👯 I’m looking to collaborate on
