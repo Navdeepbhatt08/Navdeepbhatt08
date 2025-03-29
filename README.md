@@ -1,11 +1,11 @@
 # 💫 About Me :
 
 - 🔭 I’m currently working on:
-  **Full Stack Web Development**
+  **Front End Web Development**
 - 🌱 I’m currently learning:
-  **React.js , Express.Js , Node.Js , MongoDB**
+  **Html , CSS , Java Script , React Js**
 - 👯 I’m looking to collaborate on
-  **Full Stack Web Development**
+  **Front End Projects**
 - 👨‍💻 **All of my projects are available at :
   [https://github.com/Navdeepbhatt08/](https://github.com/Navdeepbhatt08/)**
 - 💬 Ask me about
