@@ -1,9 +1,9 @@
 # 💫 About Me :
 
 - 🔭 I’m currently working on:
- **Front End Web Development**
+ **Full Stack Web Development**
 - 🌱 I’m currently learning:
-  **Html , CSS , Java Script , React Js**
+  **Html , CSS , Java Script , React Js , D S A**
 - 👯 I’m looking to collaborate on
   **Front End Projects**
 - 👨‍💻 **All of my projects are available at :
