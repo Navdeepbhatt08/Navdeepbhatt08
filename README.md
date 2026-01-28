@@ -1,10 +1,13 @@
+
+
 <h1 align="center">Hi 👋, I'm NAVDEEP BHATT</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=navdeepbhatt08&label=Profile%20views&color=0e75b6&style=flat" alt="navdeepbhatt08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navdeepbhatt08" alt="navdeepbhatt08" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=navdeepbhatt08" alt="navdeepbhatt08" /></a> </p>
 
+  
 - 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **Backend Developemnt(Node JS) , APIs , DSA**
@@ -19,6 +22,7 @@
 
 - ⚡ Fun fact **I enjoy Photoshop , Premier Pro**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/navdeepbhatt08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navdeepbhatt08" height="30" width="40" /></a>
@@ -29,7 +33,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
@@ -55,7 +58,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
 
-###
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeepbhatt08&show_icons=true&locale=en&layout=compact" alt="navdeepbhatt08" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navdeepbhatt08&" alt="navdeepbhatt08" /></p>
+###
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeepbhatt08&show_icons=true&locale=en&layout=compact" alt="navdeepbhatt08" /></p>
+
+
+
+
