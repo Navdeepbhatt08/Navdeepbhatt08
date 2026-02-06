@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Html, Css, JavaScript, ReactJs, SQL**
 
-- 📫 How to reach me **NAVDEEP9557@GMAIL.COM**
+- 📫 How to reach me **navdeep9557@gmail.com*
 
 - ⚡ Fun fact **I enjoy Photoshop , Premier Pro**
 
