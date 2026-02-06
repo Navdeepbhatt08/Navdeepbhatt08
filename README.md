@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Backend Developemnt, DSA**
 
-- 👯 I’m looking to collaborate on **Front End and Backend Projects**
+- 👯 I’m looking to collaborate on *Front End and Backend Projects*
 
 - 👨‍💻 All of my projects are available at [https://github.com/Navdeepbhatt08](https://github.com/Navdeepbhatt08)
 
-- 💬 Ask me about **Html, Css, JavaScript, ReactJs, SQL**
+- 💬 Ask me about *Html, Css, JavaScript, ReactJs, SQL*
 
-- 📫 How to reach me **navdeep9557@gmail.com*
+- 📫 How to reach me *navdeep9557@gmail.com*
 
 - ⚡ Fun fact **I enjoy Photoshop , Premier Pro**
 
@@ -54,11 +54,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
 </div>
-
-
-###
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=navdeepbhatt08&show_icons=true&locale=en&layout=compact" alt="navdeepbhatt08" /></p>
-
-
-
-
