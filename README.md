@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Backend Developemnt, DSA**
 
-- 👯 I’m looking to collaborate on *Front End and Backend Projects*
+- 👯 I’m looking to collaborate on **Front End and Backend Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Navdeepbhatt08](https://github.com/Navdeepbhatt08)
 
-- 💬 Ask me about *Html, Css, JavaScript, ReactJs, SQL*
+- 💬 Ask me about **Html, Css, JavaScript, ReactJs, SQL**
 
 - 📫 How to reach me *navdeep9557@gmail.com*
 
