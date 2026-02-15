@@ -7,7 +7,7 @@
   
 - 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Backend Developemnt, DSA**
+- 🌱 I’m currently learning **Backend Developemnt (Node.Js), Data Structure and Algoritms**
 
 - 👯 I’m looking to collaborate on **Front End and Backend Projects**
 
