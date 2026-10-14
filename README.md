@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm NAVDEEP BHATT</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
