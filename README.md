@@ -14,7 +14,7 @@
 
 - 📫 How to reach me *navdeep9557@gmail.com*
 
-- ⚡ Fun fact **I enjoy Photoshop , Premier Pro**
+- ⚡ Fun fact **I Enjoy Riding**
 
 
 <h3 align="left">Connect with me:</h3>
