@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm NAVDEEP BHATT</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navdeepbhatt08&label=Profile%20views&color=0e75b6&style=flat" alt="navdeepbhatt08" /> </p>
   
 - 🔭 I’m currently working on **Full Stack Development**
 
